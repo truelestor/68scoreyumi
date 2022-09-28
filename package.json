@@ -1,0 +1,18 @@
+{
+  "name": "68scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "checking credit score for free ◄ Get Your FREE Credit Score checking credit score for free,",
+  "keywords": [
+    "checking credit score for free",
+    "building credit score",
+    "why does my credit score keep going down",
+    "credit score karma",
+    "will credit score affect renting"
+  ],
+  "repository": "https://github.com/truelestor/68scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
